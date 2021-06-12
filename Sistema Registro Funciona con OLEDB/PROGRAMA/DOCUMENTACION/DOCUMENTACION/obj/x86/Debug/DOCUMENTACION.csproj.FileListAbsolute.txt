@@ -1,0 +1,235 @@
+C:\Users\Federico\Desktop\PROGRAMA 2\DOCUMENTACION\DOCUMENTACION\bin\Debug\DOCUMENTACION.exe
+C:\Users\Federico\Desktop\PROGRAMA 2\DOCUMENTACION\DOCUMENTACION\bin\Debug\DOCUMENTACION.pdb
+C:\Users\Federico\Desktop\PROGRAMA 2\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Federico\Desktop\PROGRAMA 2\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Formularios.Administrar_Tipos.resources
+C:\Users\Federico\Desktop\PROGRAMA 2\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Formularios.ADMIN_VERIFICAR.resources
+C:\Users\Federico\Desktop\PROGRAMA 2\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Formularios.Agregar_Tipos.resources
+C:\Users\Federico\Desktop\PROGRAMA 2\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Formularios.BUSCAR_ENTREGA.resources
+C:\Users\Federico\Desktop\PROGRAMA 2\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Formularios.CANCELAR_ENTREGA.resources
+C:\Users\Federico\Desktop\PROGRAMA 2\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Formularios.CARGAR.resources
+C:\Users\Federico\Desktop\PROGRAMA 2\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Formularios.ENTREGAR.resources
+C:\Users\Federico\Desktop\PROGRAMA 2\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Formularios.BUSCAR_STOCK.resources
+C:\Users\Federico\Desktop\PROGRAMA 2\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Formularios.LISTAR_ENTREGA.resources
+C:\Users\Federico\Desktop\PROGRAMA 2\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Formularios.LISTAR_STOCK.resources
+C:\Users\Federico\Desktop\PROGRAMA 2\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Formularios.Menu_Admin.resources
+C:\Users\Federico\Desktop\PROGRAMA 2\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Formularios.MODIFICAR_ENTREGA.resources
+C:\Users\Federico\Desktop\PROGRAMA 2\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Formularios.MODIFICAR_STOCK.resources
+C:\Users\Federico\Desktop\PROGRAMA 2\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Formularios.Modificar_Tipos.resources
+C:\Users\Federico\Desktop\PROGRAMA 2\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Principal.resources
+C:\Users\Federico\Desktop\PROGRAMA 2\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Properties.Resources.resources
+C:\Users\Federico\Desktop\PROGRAMA 2\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Federico\Desktop\PROGRAMA 2\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Federico\Desktop\PROGRAMA 2\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.exe
+C:\Users\Federico\Desktop\PROGRAMA 2\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.pdb
+C:\Users\Federico\Desktop\PROGRAMA 2\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Formularios.MODIFICAR_PERSONAS.resources
+C:\Users\Federico\Desktop\PROGRAMA 2\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\RdlCompile.cache
+C:\Users\Federico\Desktop\PROGRAMA 2\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Federico\Desktop\PROGRAMA 2\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Formularios.REPORTE_STOCK.resources
+C:\Users\Federico\Desktop\PROGRAMA 2\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Formularios.REPORTE_ENTREGA.resources
+D:\Compartida\PROGRAMA 2\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.exe
+D:\Compartida\PROGRAMA 2\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.pdb
+C:\Users\Federico\Desktop\PROGRAMA 2\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Formularios.LISTADO_COMPLETO.resources
+D:\Compartida\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.exe
+D:\Compartida\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.pdb
+D:\Compartida\PROGRAMA\DOCUMENTACION\DOCUMENTACION\bin\Debug\DOCUMENTACION.exe
+D:\Compartida\PROGRAMA\DOCUMENTACION\DOCUMENTACION\bin\Debug\DOCUMENTACION.pdb
+D:\Compartida\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Compartida\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Formularios.Administrar_Tipos.resources
+D:\Compartida\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Formularios.ADMIN_VERIFICAR.resources
+D:\Compartida\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Formularios.Agregar_Tipos.resources
+D:\Compartida\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Formularios.BUSCAR_ENTREGA.resources
+D:\Compartida\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Formularios.CANCELAR_ENTREGA.resources
+D:\Compartida\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Formularios.CARGAR.resources
+D:\Compartida\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Formularios.ENTREGAR.resources
+D:\Compartida\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Formularios.BUSCAR_STOCK.resources
+D:\Compartida\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Formularios.LISTADO_COMPLETO.resources
+D:\Compartida\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Formularios.LISTAR_ENTREGA.resources
+D:\Compartida\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Formularios.LISTAR_STOCK.resources
+D:\Compartida\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Formularios.Menu_Admin.resources
+D:\Compartida\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Formularios.MODIFICAR_ENTREGA.resources
+D:\Compartida\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Formularios.MODIFICAR_PERSONAS.resources
+D:\Compartida\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Formularios.MODIFICAR_STOCK.resources
+D:\Compartida\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Formularios.Modificar_Tipos.resources
+D:\Compartida\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Formularios.REPORTE_ENTREGA.resources
+D:\Compartida\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Formularios.REPORTE_STOCK.resources
+D:\Compartida\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Principal.resources
+D:\Compartida\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Properties.Resources.resources
+D:\Compartida\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Compartida\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Compartida\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\RdlCompile.cache
+D:\Compartida\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\RdlCompile.compiled
+D:\Sistema Registro\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.exe
+D:\Sistema Registro\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.pdb
+D:\Fede\Sistema Registro\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.exe
+D:\Fede\Sistema Registro\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.pdb
+D:\Fede\Sistema Registro\PROGRAMA\DOCUMENTACION\DOCUMENTACION\bin\Debug\DOCUMENTACION.exe
+D:\Fede\Sistema Registro\PROGRAMA\DOCUMENTACION\DOCUMENTACION\bin\Debug\DOCUMENTACION.pdb
+D:\Fede\Sistema Registro\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Fede\Sistema Registro\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Formularios.ADMINISTRAR_TIPOS.resources
+D:\Fede\Sistema Registro\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Formularios.ADMIN_VERIFICAR.resources
+D:\Fede\Sistema Registro\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Formularios.AGREGAR_TIPOS.resources
+D:\Fede\Sistema Registro\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Formularios.BUSCAR_ENTREGA.resources
+D:\Fede\Sistema Registro\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Formularios.CANCELAR_ENTREGA.resources
+D:\Fede\Sistema Registro\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Formularios.CARGAR.resources
+D:\Fede\Sistema Registro\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Formularios.ENTREGAR.resources
+D:\Fede\Sistema Registro\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Formularios.BUSCAR_STOCK.resources
+D:\Fede\Sistema Registro\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Formularios.LISTADO_COMPLETO.resources
+D:\Fede\Sistema Registro\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Formularios.LISTAR_ENTREGA.resources
+D:\Fede\Sistema Registro\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Formularios.LISTAR_STOCK.resources
+D:\Fede\Sistema Registro\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Formularios.MENU_ADMIN.resources
+D:\Fede\Sistema Registro\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Formularios.MODIFICAR_ENTREGA.resources
+D:\Fede\Sistema Registro\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Formularios.MODIFICAR_PERSONAS.resources
+D:\Fede\Sistema Registro\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Formularios.MODIFICAR_STOCK.resources
+D:\Fede\Sistema Registro\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Formularios.MODIFICAR_TIPOS.resources
+D:\Fede\Sistema Registro\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Formularios.REPORTE_ENTREGA.resources
+D:\Fede\Sistema Registro\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Formularios.REPORTE_STOCK.resources
+D:\Fede\Sistema Registro\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Principal.resources
+D:\Fede\Sistema Registro\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Properties.Resources.resources
+D:\Fede\Sistema Registro\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Fede\Sistema Registro\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Fede\Sistema Registro\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\RdlCompile.cache
+D:\Fede\Sistema Registro\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Federico\Desktop\Sistema Registro\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.exe
+C:\Users\Federico\Desktop\Sistema Registro\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.pdb
+C:\Users\Federico\Desktop\Sistema Registro\PROGRAMA\DOCUMENTACION\DOCUMENTACION\bin\Debug\DOCUMENTACION.exe
+C:\Users\Federico\Desktop\Sistema Registro\PROGRAMA\DOCUMENTACION\DOCUMENTACION\bin\Debug\DOCUMENTACION.pdb
+C:\Users\Federico\Desktop\Sistema Registro\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Federico\Desktop\Sistema Registro\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Formularios.ADMINISTRAR_TIPOS.resources
+C:\Users\Federico\Desktop\Sistema Registro\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Formularios.ADMIN_VERIFICAR.resources
+C:\Users\Federico\Desktop\Sistema Registro\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Formularios.AGREGAR_TIPOS.resources
+C:\Users\Federico\Desktop\Sistema Registro\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Formularios.BUSCAR_ENTREGA.resources
+C:\Users\Federico\Desktop\Sistema Registro\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Formularios.CANCELAR_ENTREGA.resources
+C:\Users\Federico\Desktop\Sistema Registro\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Formularios.CARGAR.resources
+C:\Users\Federico\Desktop\Sistema Registro\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Formularios.ENTREGAR.resources
+C:\Users\Federico\Desktop\Sistema Registro\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Formularios.BUSCAR_STOCK.resources
+C:\Users\Federico\Desktop\Sistema Registro\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Formularios.LISTADO_COMPLETO.resources
+C:\Users\Federico\Desktop\Sistema Registro\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Formularios.LISTAR_ENTREGA.resources
+C:\Users\Federico\Desktop\Sistema Registro\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Formularios.LISTAR_STOCK.resources
+C:\Users\Federico\Desktop\Sistema Registro\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Formularios.MENU_ADMIN.resources
+C:\Users\Federico\Desktop\Sistema Registro\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Formularios.MODIFICAR_ENTREGA.resources
+C:\Users\Federico\Desktop\Sistema Registro\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Formularios.MODIFICAR_PERSONAS.resources
+C:\Users\Federico\Desktop\Sistema Registro\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Formularios.MODIFICAR_STOCK.resources
+C:\Users\Federico\Desktop\Sistema Registro\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Formularios.MODIFICAR_TIPOS.resources
+C:\Users\Federico\Desktop\Sistema Registro\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Formularios.REPORTE_ENTREGA.resources
+C:\Users\Federico\Desktop\Sistema Registro\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Formularios.REPORTE_STOCK.resources
+C:\Users\Federico\Desktop\Sistema Registro\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Principal.resources
+C:\Users\Federico\Desktop\Sistema Registro\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Properties.Resources.resources
+C:\Users\Federico\Desktop\Sistema Registro\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Federico\Desktop\Sistema Registro\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Federico\Desktop\Sistema Registro\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\RdlCompile.cache
+C:\Users\Federico\Desktop\Sistema Registro\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\RdlCompile.compiled
+D:\Fede\Sistema Registro Funciona con OLEDB\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.exe
+D:\Fede\Sistema Registro Funciona con OLEDB\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.pdb
+D:\Fede\Sistema Registro Funciona con OLEDB\PROGRAMA\DOCUMENTACION\DOCUMENTACION\bin\Debug\DOCUMENTACION.exe
+D:\Fede\Sistema Registro Funciona con OLEDB\PROGRAMA\DOCUMENTACION\DOCUMENTACION\bin\Debug\DOCUMENTACION.pdb
+D:\Fede\Sistema Registro Funciona con OLEDB\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Fede\Sistema Registro Funciona con OLEDB\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Formularios.ADMINISTRAR_TIPOS.resources
+D:\Fede\Sistema Registro Funciona con OLEDB\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Formularios.ADMIN_VERIFICAR.resources
+D:\Fede\Sistema Registro Funciona con OLEDB\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Formularios.AGREGAR_TIPOS.resources
+D:\Fede\Sistema Registro Funciona con OLEDB\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Formularios.BUSCAR_ENTREGA.resources
+D:\Fede\Sistema Registro Funciona con OLEDB\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Formularios.CANCELAR_ENTREGA.resources
+D:\Fede\Sistema Registro Funciona con OLEDB\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Formularios.CARGAR.resources
+D:\Fede\Sistema Registro Funciona con OLEDB\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Formularios.ENTREGAR.resources
+D:\Fede\Sistema Registro Funciona con OLEDB\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Formularios.BUSCAR_STOCK.resources
+D:\Fede\Sistema Registro Funciona con OLEDB\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Formularios.LISTADO_COMPLETO.resources
+D:\Fede\Sistema Registro Funciona con OLEDB\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Formularios.LISTAR_ENTREGA.resources
+D:\Fede\Sistema Registro Funciona con OLEDB\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Formularios.LISTAR_STOCK.resources
+D:\Fede\Sistema Registro Funciona con OLEDB\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Formularios.MENU_ADMIN.resources
+D:\Fede\Sistema Registro Funciona con OLEDB\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Formularios.MODIFICAR_ENTREGA.resources
+D:\Fede\Sistema Registro Funciona con OLEDB\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Formularios.MODIFICAR_PERSONAS.resources
+D:\Fede\Sistema Registro Funciona con OLEDB\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Formularios.MODIFICAR_STOCK.resources
+D:\Fede\Sistema Registro Funciona con OLEDB\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Formularios.MODIFICAR_TIPOS.resources
+D:\Fede\Sistema Registro Funciona con OLEDB\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Formularios.REPORTE_ENTREGA.resources
+D:\Fede\Sistema Registro Funciona con OLEDB\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Formularios.REPORTE_STOCK.resources
+D:\Fede\Sistema Registro Funciona con OLEDB\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Principal.resources
+D:\Fede\Sistema Registro Funciona con OLEDB\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Properties.Resources.resources
+D:\Fede\Sistema Registro Funciona con OLEDB\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Fede\Sistema Registro Funciona con OLEDB\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Fede\Sistema Registro Funciona con OLEDB\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\RdlCompile.cache
+D:\Fede\Sistema Registro Funciona con OLEDB\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Federico Tuñon Alves\Dropbox\Fede\Sistema\Sistema Registro Funciona con OLEDB\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.exe
+C:\Users\Federico Tuñon Alves\Dropbox\Fede\Sistema\Sistema Registro Funciona con OLEDB\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.pdb
+C:\Users\Federico Tuñon Alves\Dropbox\Fede\Sistema\Sistema Registro Funciona con OLEDB\PROGRAMA\DOCUMENTACION\DOCUMENTACION\bin\Debug\DOCUMENTACION.exe
+C:\Users\Federico Tuñon Alves\Dropbox\Fede\Sistema\Sistema Registro Funciona con OLEDB\PROGRAMA\DOCUMENTACION\DOCUMENTACION\bin\Debug\DOCUMENTACION.pdb
+C:\Users\Federico Tuñon Alves\Dropbox\Fede\Sistema\Sistema Registro Funciona con OLEDB\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Federico Tuñon Alves\Dropbox\Fede\Sistema\Sistema Registro Funciona con OLEDB\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Formularios.ADMINISTRAR_TIPOS.resources
+C:\Users\Federico Tuñon Alves\Dropbox\Fede\Sistema\Sistema Registro Funciona con OLEDB\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Formularios.ADMIN_VERIFICAR.resources
+C:\Users\Federico Tuñon Alves\Dropbox\Fede\Sistema\Sistema Registro Funciona con OLEDB\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Formularios.AGREGAR_TIPOS.resources
+C:\Users\Federico Tuñon Alves\Dropbox\Fede\Sistema\Sistema Registro Funciona con OLEDB\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Formularios.BUSCAR_ENTREGA.resources
+C:\Users\Federico Tuñon Alves\Dropbox\Fede\Sistema\Sistema Registro Funciona con OLEDB\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Formularios.CANCELAR_ENTREGA.resources
+C:\Users\Federico Tuñon Alves\Dropbox\Fede\Sistema\Sistema Registro Funciona con OLEDB\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Formularios.CARGAR.resources
+C:\Users\Federico Tuñon Alves\Dropbox\Fede\Sistema\Sistema Registro Funciona con OLEDB\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Formularios.ENTREGAR.resources
+C:\Users\Federico Tuñon Alves\Dropbox\Fede\Sistema\Sistema Registro Funciona con OLEDB\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Formularios.BUSCAR_STOCK.resources
+C:\Users\Federico Tuñon Alves\Dropbox\Fede\Sistema\Sistema Registro Funciona con OLEDB\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Formularios.LISTADO_COMPLETO.resources
+C:\Users\Federico Tuñon Alves\Dropbox\Fede\Sistema\Sistema Registro Funciona con OLEDB\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Formularios.LISTAR_ENTREGA.resources
+C:\Users\Federico Tuñon Alves\Dropbox\Fede\Sistema\Sistema Registro Funciona con OLEDB\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Formularios.LISTAR_STOCK.resources
+C:\Users\Federico Tuñon Alves\Dropbox\Fede\Sistema\Sistema Registro Funciona con OLEDB\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Formularios.MENU_ADMIN.resources
+C:\Users\Federico Tuñon Alves\Dropbox\Fede\Sistema\Sistema Registro Funciona con OLEDB\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Formularios.MODIFICAR_ENTREGA.resources
+C:\Users\Federico Tuñon Alves\Dropbox\Fede\Sistema\Sistema Registro Funciona con OLEDB\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Formularios.MODIFICAR_PERSONAS.resources
+C:\Users\Federico Tuñon Alves\Dropbox\Fede\Sistema\Sistema Registro Funciona con OLEDB\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Formularios.MODIFICAR_STOCK.resources
+C:\Users\Federico Tuñon Alves\Dropbox\Fede\Sistema\Sistema Registro Funciona con OLEDB\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Formularios.MODIFICAR_TIPOS.resources
+C:\Users\Federico Tuñon Alves\Dropbox\Fede\Sistema\Sistema Registro Funciona con OLEDB\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Formularios.REPORTE_ENTREGA.resources
+C:\Users\Federico Tuñon Alves\Dropbox\Fede\Sistema\Sistema Registro Funciona con OLEDB\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Formularios.REPORTE_STOCK.resources
+C:\Users\Federico Tuñon Alves\Dropbox\Fede\Sistema\Sistema Registro Funciona con OLEDB\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Principal.resources
+C:\Users\Federico Tuñon Alves\Dropbox\Fede\Sistema\Sistema Registro Funciona con OLEDB\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Properties.Resources.resources
+C:\Users\Federico Tuñon Alves\Dropbox\Fede\Sistema\Sistema Registro Funciona con OLEDB\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Federico Tuñon Alves\Dropbox\Fede\Sistema\Sistema Registro Funciona con OLEDB\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Federico Tuñon Alves\Dropbox\Fede\Sistema\Sistema Registro Funciona con OLEDB\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\RdlCompile.cache
+C:\Users\Federico Tuñon Alves\Dropbox\Fede\Sistema\Sistema Registro Funciona con OLEDB\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\RdlCompile.compiled
+D:\Dropbox\Fede\Sistema\Sistema Registro Funciona con OLEDB\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.exe
+D:\Dropbox\Fede\Sistema\Sistema Registro Funciona con OLEDB\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.pdb
+D:\Dropbox\Fede\Sistema\Sistema Registro Funciona con OLEDB\PROGRAMA\DOCUMENTACION\DOCUMENTACION\bin\Debug\DOCUMENTACION.exe
+D:\Dropbox\Fede\Sistema\Sistema Registro Funciona con OLEDB\PROGRAMA\DOCUMENTACION\DOCUMENTACION\bin\Debug\DOCUMENTACION.pdb
+D:\Dropbox\Fede\Sistema\Sistema Registro Funciona con OLEDB\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Dropbox\Fede\Sistema\Sistema Registro Funciona con OLEDB\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Formularios.ADMINISTRAR_TIPOS.resources
+D:\Dropbox\Fede\Sistema\Sistema Registro Funciona con OLEDB\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Formularios.ADMIN_VERIFICAR.resources
+D:\Dropbox\Fede\Sistema\Sistema Registro Funciona con OLEDB\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Formularios.AGREGAR_TIPOS.resources
+D:\Dropbox\Fede\Sistema\Sistema Registro Funciona con OLEDB\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Formularios.BUSCAR_ENTREGA.resources
+D:\Dropbox\Fede\Sistema\Sistema Registro Funciona con OLEDB\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Formularios.CANCELAR_ENTREGA.resources
+D:\Dropbox\Fede\Sistema\Sistema Registro Funciona con OLEDB\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Formularios.CARGAR.resources
+D:\Dropbox\Fede\Sistema\Sistema Registro Funciona con OLEDB\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Formularios.ENTREGAR.resources
+D:\Dropbox\Fede\Sistema\Sistema Registro Funciona con OLEDB\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Formularios.BUSCAR_STOCK.resources
+D:\Dropbox\Fede\Sistema\Sistema Registro Funciona con OLEDB\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Formularios.LISTADO_COMPLETO.resources
+D:\Dropbox\Fede\Sistema\Sistema Registro Funciona con OLEDB\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Formularios.LISTAR_ENTREGA.resources
+D:\Dropbox\Fede\Sistema\Sistema Registro Funciona con OLEDB\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Formularios.LISTAR_STOCK.resources
+D:\Dropbox\Fede\Sistema\Sistema Registro Funciona con OLEDB\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Formularios.MENU_ADMIN.resources
+D:\Dropbox\Fede\Sistema\Sistema Registro Funciona con OLEDB\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Formularios.MODIFICAR_ENTREGA.resources
+D:\Dropbox\Fede\Sistema\Sistema Registro Funciona con OLEDB\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Formularios.MODIFICAR_PERSONAS.resources
+D:\Dropbox\Fede\Sistema\Sistema Registro Funciona con OLEDB\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Formularios.MODIFICAR_STOCK.resources
+D:\Dropbox\Fede\Sistema\Sistema Registro Funciona con OLEDB\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Formularios.MODIFICAR_TIPOS.resources
+D:\Dropbox\Fede\Sistema\Sistema Registro Funciona con OLEDB\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Formularios.REPORTE_ENTREGA.resources
+D:\Dropbox\Fede\Sistema\Sistema Registro Funciona con OLEDB\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Formularios.REPORTE_STOCK.resources
+D:\Dropbox\Fede\Sistema\Sistema Registro Funciona con OLEDB\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Principal.resources
+D:\Dropbox\Fede\Sistema\Sistema Registro Funciona con OLEDB\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Properties.Resources.resources
+D:\Dropbox\Fede\Sistema\Sistema Registro Funciona con OLEDB\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Dropbox\Fede\Sistema\Sistema Registro Funciona con OLEDB\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Dropbox\Fede\Sistema\Sistema Registro Funciona con OLEDB\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\RdlCompile.cache
+D:\Dropbox\Fede\Sistema\Sistema Registro Funciona con OLEDB\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Notebook\Dropbox\Fede\Sistema\Sistema Registro Funciona con OLEDB\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.exe
+C:\Users\Notebook\Dropbox\Fede\Sistema\Sistema Registro Funciona con OLEDB\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.pdb
+C:\Users\Notebook\Dropbox\Fede\Sistema\Sistema Registro Funciona con OLEDB\PROGRAMA\DOCUMENTACION\DOCUMENTACION\bin\Debug\DOCUMENTACION.exe
+C:\Users\Notebook\Dropbox\Fede\Sistema\Sistema Registro Funciona con OLEDB\PROGRAMA\DOCUMENTACION\DOCUMENTACION\bin\Debug\DOCUMENTACION.pdb
+C:\Users\Notebook\Dropbox\Fede\Sistema\Sistema Registro Funciona con OLEDB\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.csprojResolveAssemblyReference.cache
+C:\Users\Notebook\Dropbox\Fede\Sistema\Sistema Registro Funciona con OLEDB\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Formularios.ADMINISTRAR_TIPOS.resources
+C:\Users\Notebook\Dropbox\Fede\Sistema\Sistema Registro Funciona con OLEDB\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Formularios.ADMIN_VERIFICAR.resources
+C:\Users\Notebook\Dropbox\Fede\Sistema\Sistema Registro Funciona con OLEDB\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Formularios.AGREGAR_TIPOS.resources
+C:\Users\Notebook\Dropbox\Fede\Sistema\Sistema Registro Funciona con OLEDB\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Formularios.BUSCAR_ENTREGA.resources
+C:\Users\Notebook\Dropbox\Fede\Sistema\Sistema Registro Funciona con OLEDB\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Formularios.CANCELAR_ENTREGA.resources
+C:\Users\Notebook\Dropbox\Fede\Sistema\Sistema Registro Funciona con OLEDB\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Formularios.CARGAR.resources
+C:\Users\Notebook\Dropbox\Fede\Sistema\Sistema Registro Funciona con OLEDB\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Formularios.ENTREGAR.resources
+C:\Users\Notebook\Dropbox\Fede\Sistema\Sistema Registro Funciona con OLEDB\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Formularios.BUSCAR_STOCK.resources
+C:\Users\Notebook\Dropbox\Fede\Sistema\Sistema Registro Funciona con OLEDB\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Formularios.LISTADO_COMPLETO.resources
+C:\Users\Notebook\Dropbox\Fede\Sistema\Sistema Registro Funciona con OLEDB\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Formularios.LISTAR_ENTREGA.resources
+C:\Users\Notebook\Dropbox\Fede\Sistema\Sistema Registro Funciona con OLEDB\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Formularios.LISTAR_STOCK.resources
+C:\Users\Notebook\Dropbox\Fede\Sistema\Sistema Registro Funciona con OLEDB\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Formularios.MENU_ADMIN.resources
+C:\Users\Notebook\Dropbox\Fede\Sistema\Sistema Registro Funciona con OLEDB\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Formularios.MODIFICAR_ENTREGA.resources
+C:\Users\Notebook\Dropbox\Fede\Sistema\Sistema Registro Funciona con OLEDB\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Formularios.MODIFICAR_PERSONAS.resources
+C:\Users\Notebook\Dropbox\Fede\Sistema\Sistema Registro Funciona con OLEDB\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Formularios.MODIFICAR_STOCK.resources
+C:\Users\Notebook\Dropbox\Fede\Sistema\Sistema Registro Funciona con OLEDB\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Formularios.MODIFICAR_TIPOS.resources
+C:\Users\Notebook\Dropbox\Fede\Sistema\Sistema Registro Funciona con OLEDB\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Formularios.REPORTE_ENTREGA.resources
+C:\Users\Notebook\Dropbox\Fede\Sistema\Sistema Registro Funciona con OLEDB\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Formularios.REPORTE_STOCK.resources
+C:\Users\Notebook\Dropbox\Fede\Sistema\Sistema Registro Funciona con OLEDB\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Principal.resources
+C:\Users\Notebook\Dropbox\Fede\Sistema\Sistema Registro Funciona con OLEDB\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.Properties.Resources.resources
+C:\Users\Notebook\Dropbox\Fede\Sistema\Sistema Registro Funciona con OLEDB\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\DOCUMENTACION.csproj.GenerateResource.Cache
+C:\Users\Notebook\Dropbox\Fede\Sistema\Sistema Registro Funciona con OLEDB\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\RdlCompile.cache
+C:\Users\Notebook\Dropbox\Fede\Sistema\Sistema Registro Funciona con OLEDB\PROGRAMA\DOCUMENTACION\DOCUMENTACION\obj\x86\Debug\RdlCompile.compiled
